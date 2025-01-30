@@ -106,10 +106,11 @@ We welcome contributions! Please submit a pull request or open an issue to discu
 
 # 👤 Author
 
-### Twitter: [Dieharye](https://x.com/dieharye)   
-https://x.com/dieharye
 ### Telegram: [Vladmeer](https://t.me/vladmeer67)   
 https://t.me/vladmeer67
+
+### Twitter: [Vladmeer](https://x.com/vladmeer67)   
+https://x.com/vladmeer67
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
